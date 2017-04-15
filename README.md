@@ -1,21 +1,21 @@
 # RCR-Tactile-Map-with-Audio
 
 Materials
-white foam core – 2 sheets
-galvanized aluminum (designed for duct work) – 1 sheet
-insulated wire – 3 feet
-half inch moulding – 8 feet
-balsa wood (square) - 1/8x1/8x48
-balsa wood (round) – 1/8x1/8x48
-black spray paint – 1 can
-white Pastidip – 1 can
-Bluetooth speaker – 1
-glue sticks – 8
-Push pins – 1 pack
-adhesive felt – 1 pack
-5/8 wooden plugs – 1 pack
-1/8 tile spacers – 1 pack
-100 grit sandpaper – 1 piece
+1. white foam core – 2 sheets
+2. galvanized aluminum (designed for duct work) – 1 sheet
+3. insulated wire – 3 feet
+4. half inch moulding – 8 feet
+5. balsa wood (square) - 1/8x1/8x48
+6. balsa wood (round) – 1/8x1/8x48
+7. black spray paint – 1 can
+8. white Pastidip – 1 can
+9. Bluetooth speaker – 1
+10. glue sticks – 8
+11. Push pins – 1 pack
+12. adhesive felt – 1 pack
+13. 5/8 wooden plugs – 1 pack
+14. 1/8 tile spacers – 1 pack
+15. 100 grit sandpaper – 1 piece
 
 Process 
 
