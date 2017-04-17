@@ -1,6 +1,6 @@
 # RCR-Tactile-Map-with-Audio
 
-Materials
+<bold>Materials</bold>
 1. white foam core – 2 sheets
 2. galvanized aluminum (designed for duct work) – 1 sheet
 3. insulated wire – 3 feet
@@ -17,16 +17,16 @@ Materials
 14. 1/8 tile spacers – 1 pack
 15. 100 grit sandpaper – 1 piece
 
-Process 
+<bold>Process</bold> 
 
 Braille Text
 1. Cut aluminium text panels and buttons to size using tinsnips
 2. Create grid on backside of text panels
-3. Stencil on a mirror image of desired braille text onto the grid created in step 2
-4. Using a hammer and 3/8 steel punch create each braille bump one at a time
-5. cut 7 pieces of wire, 6 inches in length
-6. Strip ½ inch of each end of the 6 wires
-7. attach one end of each wire to each text panel with electrical tape 
+3. Stencil a mirror image of desired braille text onto the grid created in step 2
+4. Using a hammer and 3/8 steel punch create braille letters
+5. Cut 7 pieces of wire, 6 inches in length
+6. Strip ½ inch of both ends of the 7 wires
+7. Attach one end of each wire to each text panel with electrical tape 
 
 
 Map Construction
@@ -46,14 +46,14 @@ Map Construction
 The Audio
 1. Write voiceover scripts for each museum gallery
 2. Record voiceovers and save them as mp3s
-3. upload mp3s to Makey Makey Scratch Studio
+3. upload mp3s to MakeyMakey Scratch Studio
 4. Assign one audio file to each of the six button options
-5. Add command to end current audio when next button is pushed
+5. Command should read "when *blank* key pressed* > "stop all sounds" > "play shound *blank*"
 6. save your sketch for later use
 
 Making it Work
-1.	Attach the wire from the legend to the ground spot on the Makey Makey panel
-2.	Attach each of the 6 wires to one of the 6 locations on the Makey Makey panel
+1.	Attach the wire from the legend to the ground spot on the MakeyMakey panel
+2.	Attach each of the 6 wires to one of the 6 locations on the MakeyMakey panel
 3.	Sync Bluetooth speaker with laptop and install speaker in speaker slot
 4.	Connect Makey Makey to laptop
 5.	Open your sketch
